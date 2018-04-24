@@ -1,5 +1,5 @@
 /**
- * This is Vue Design System’s helper util that
+ * This is Method Design System’s helper util that
  * creates component status labels.
  */
 

@@ -1,35 +1,35 @@
-### Principles are the foundation of the system. They form the basis of a good product and help the team with decision making. They are here to guide you and your team when working with the myriad parts of the system and help you do better and more informed decisions.
+### Principles are the foundation of the system. They are the basis of our products. The source of our decisions. They are here to guide you when working with the connected parts of the system.
 
-You’re looking at Vue Design System’s demo <code>design principles</code>. Everything you see here is editable in Markdown format. To change or remove this content, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md). To get started defining your own principles, see my [article on getting started](https://viljamis.com/2018/vue-design-system/) with Vue Design System.
+### We use these core principles in decisions making at Method Studios.
 
-## 1. Design is how it works
+## 1. Efficiency before Complexity
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+![alt image text <>][logo]
 
-## 2. Reduce concepts to increase confidence
+[logo]: https://www.lightningdesignsystem.com/assets/images/guidelines/img-efficiency.svg "Logo Title Text 2"
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+### Streamline and optimize workflows. Intelligently anticipate needs to help people work better, smarter, and faster.
 
-## 3. Design with real data
+## 2. Clarity before Action
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+![image alt text <>][logo2]
 
-## 4. Design systems, not pages
+[logo2]: https://www.lightningdesignsystem.com/assets/images/guidelines/img-clarity.svg "Logo Title Text 2"
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+### Eliminate ambiguity. Enable people to see, understand, and act with confidence.
 
-## 5. Involve code early
+## 3. Beauty within Simplicity
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+![image alt text <>][logo3]
 
-## 6. Fast is better than slow
+[logo3]: https://www.lightningdesignsystem.com/assets/images/guidelines/img-beauty.svg "Logo Title Text 2"
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+### Demonstrate respect for people’s time and attention through thoughtful and elegant craftsmanship.
 
-## 7. Let content determine breakpoints
+## 4. Consistency over Customization
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+![alt text <>][logo4]
 
-## 8. Strive for universality
+[logo4]: https://www.lightningdesignsystem.com/assets/images/guidelines/img-consistency.svg "Logo Title Text 2"
 
-To edit or remove this principle, see [/docs/principles.md](https://github.com/viljamis/vue-design-system/blob/master/docs/principles.md).
+### Create familiarity and strengthen intuition by applying the same solution to the same problem..

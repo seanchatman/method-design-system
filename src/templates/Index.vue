@@ -5,8 +5,25 @@
       {name: 'Living Docs', href: 'http://localhost:6060/'}
     ]"/>
     <wrapper>
-      <heading level="h1">Vue Design System</heading>
-      <text-style><a href="https://vueds.com">Vue Design System</a> is an open-source tool for building design systems with Vue.js. It provides you and your team a set of organized tools, patterns &amp; practices. It works as the foundation for your application development.</text-style>
+      <heading level="h1">Method Design System</heading>
+      <text-style><a href="https://vueds.com">Method Design System</a> is the single source of design truth at Method Studios. The system contains the tools, patterns &amp; practices to make cutting-edge projects. It works as the foundation of all systems development.</text-style>
+      <v-card height="200px" flat>
+        <div class="headline text-xs-center pa-5">Active: {{ e1 }}</div>
+        <v-bottom-nav absolute :value="true" :active.sync="e1" color="transparent">
+          <v-btn flat color="teal" value="recent">
+            <span>Recent</span>
+            <v-icon>history</v-icon>
+          </v-btn>
+          <v-btn flat color="teal" value="favorites">
+            <span>Favorites</span>
+            <v-icon>favorite</v-icon>
+          </v-btn>
+          <v-btn flat color="teal" value="nearby">
+            <span>Nearby</span>
+            <v-icon>place</v-icon>
+          </v-btn>
+        </v-bottom-nav>
+      </v-card>
     </wrapper>
   </component>
 </template>
@@ -20,7 +37,7 @@ export default {
   status: "deprecated",
   release: "1.0.0",
   metaInfo: {
-    title: "Vue Design System",
+    title: "Method Design System",
     htmlAttrs: {
       lang: "en",
     },
